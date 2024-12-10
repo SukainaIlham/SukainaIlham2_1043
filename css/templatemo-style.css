@@ -861,7 +861,7 @@ address {
 
 .tm-price {
   margin: 0;
-  font-size: 1.25rem; /* Sesuaikan ukuran font harga */
+  font-size: 1.10rem; /* Sesuaikan ukuran font harga */
   color: #2F956D;
 }
 
